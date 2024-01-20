@@ -1,0 +1,10 @@
+T__0=1
+T__1=2
+T__2=3
+CONSTANT=4
+VARIABLE=5
+DELIMITER=6
+WS=7
+'return'=1
+'='=2
+'+'=3
